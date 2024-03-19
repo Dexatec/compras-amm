@@ -103,9 +103,10 @@ main>section:nth-child(1)::before {
   bottom: 0;
   left: 0;
   right: 0;
-  background: url("thumbnail.jpg");
+  background: url("imagem-amm-card-principal.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: 50% 25%;
 }
 
 main>section:nth-child(1) h1 {
